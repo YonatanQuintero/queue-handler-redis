@@ -1,0 +1,17 @@
+# Directories
+node_modules/
+dist/
+tmp/
+logs/
+
+# Environment variables
+.env
+
+# Editor and IDE files
+.vscode/
+.idea/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
